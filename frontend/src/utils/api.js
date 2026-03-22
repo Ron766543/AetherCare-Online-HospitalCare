@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://aether-care-online-hospital-care.vercel.app/api";
 
 export const api = {
   login: async (email, password, role) => {
